@@ -1,8 +1,8 @@
-### Hi there, I'm José Luis Tello 👋
+# Hi there, I'm José Luis Tello 👋
 
-#### Currently working as a Manager at Nort
+## Currently working as a Manager at Nort
 
-##### I'm a data analyst, writter and complexity theory enthusiast.
+### I'm a data analyst, writter and complexity theory enthusiast.
 ---
 
 - 🔭 I write some code, statistical models and financial analysis in my [portfolio](https://joseluistello.github.io/)
