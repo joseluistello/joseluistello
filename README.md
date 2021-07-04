@@ -17,6 +17,7 @@
 - R
 - Python
 - SQL
+- 
 ### 🌅 Tools
 - Rstudio
 - Ggplot2
@@ -52,9 +53,13 @@
 
 ## Connect with me:
 
-### [🔥 My substack ](https://joseluistello.substack.com/)
+### [🔥 Substack ](https://joseluistello.substack.com/)
 ### [✔️ Twitter](https://twitter.com/jotaele_tello)
 ### [😊 Linkedin](https://www.linkedin.com/in/joseluistello/)
+### [📈 Resume](https://www.notion.so/joseluistello/resume-908176d50910492f82bb0c2c50150406)
+### [❤️ DataBase](https://www.notion.so/joseluistello/resources-3b96a11183d342b889c95e9bcb1e0c7f)
+---
+
 ---
 
 
