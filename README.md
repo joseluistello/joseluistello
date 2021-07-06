@@ -17,7 +17,6 @@
 - R
 - Python
 - SQL
-- 
 ### 🌅 Tools
 - Rstudio
 - Ggplot2
