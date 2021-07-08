@@ -2,7 +2,7 @@
 
 ## Currently working as a Manager at Nort
 
-### I'm a data analyst, writter and complexity theory enthusiast.
+### I'm a data analyst, writer and complexity theory enthusiast.
 ---
 
 - 🔭 I write some code, statistical models and financial analysis in my [portfolio](https://joseluistello.github.io/)
