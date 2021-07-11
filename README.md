@@ -48,6 +48,7 @@
 - [Fijación de precios](https://joseluistello.substack.com/p/fijacin-de-precios)
 - [An Introduction to Forecasting Modeling](https://joseluistello.github.io/r/forecasting_mexico_GDPPC/)
 - [Semiconductor Market Analysis](https://joseluistello.github.io/r/semiconductors-part1/)
+- [Titanic Analysis](https://joseluistello.github.io/r/data-analysis-process/)
 
 <!-- BLOG-POST-LIST:END -->
 
