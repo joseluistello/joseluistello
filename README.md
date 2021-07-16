@@ -5,39 +5,10 @@
 ### I'm a data analyst, writer and complexity theory enthusiast.
 ---
 
-- 🔭 I write some code, statistical models and financial analysis in my [portfolio](https://joseluistello.github.io/)
+- 🔭 I write some code, statistical models, and do some financial stuff in my [portfolio](https://joseluistello.github.io/)
 - 🌱 I’m currently learning data engineering
 - ♨️ I’m looking to enter in tech industry
 - ⚡ I love to read mangas, books and blog posts
-
----
-## Tech Stack:
-
-### 🍓 Languages
-- R
-- Python
-- SQL
-### 🌅 Tools
-- Rstudio
-- Ggplot2
-- VSC
-- Git
-- Github
-- Docker
-- Excel
-- Tableau
-- Notion
-- Google Analytics
-
-## Theory Stack:
-### 📚 Methods
-- Supervised learning approach 
-- Unsupervised learning approach
-- Descriptive statistics
-- Inferencial statistics 
-- Structured data
-- Financial modeling
-- Forecasting 
 
 ---
 ### 📕 Latest Blog Posts and Projects
@@ -49,7 +20,6 @@
 - [An Introduction to Forecasting Modeling](https://joseluistello.github.io/r/forecasting_mexico_GDPPC/)
 - [Semiconductor Market Analysis](https://joseluistello.github.io/r/semiconductors-part1/)
 - [Titanic Analysis](https://joseluistello.github.io/r/data-analysis-process/)
-
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me:
@@ -61,7 +31,6 @@
 ### [❤️ DataBase](https://www.notion.so/joseluistello/resources-3b96a11183d342b889c95e9bcb1e0c7f)
 ---
 
----
 
 
 
