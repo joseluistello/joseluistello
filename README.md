@@ -15,23 +15,23 @@
 
 Data analysis and modeling 
 
-- [Data Analysis Process with R](https://joseluistello.github.io/r/2021/07/12/data-analysis-process.html)
+- [Data Analysis Process with R](https://joseluistello.github.io/r/2021/07/12/data-analysis-process.html) - An overview to my approach on how to analyze data 
 
-- [An Introduction to Forecasting Modeling](https://joseluistello.github.io/r/2021/05/22/forecasting_mexico_GDPPC.html/)
+- [An Introduction to Forecasting Modeling](https://joseluistello.github.io/r/2021/05/22/forecasting_mexico_GDPPC.html/) -  What is forecasting modeling and how it's divided
 
 Finance 
 
-- [Semiconductor Market Analysis](https://joseluistello.github.io/r/2021/06/28/semiconductors-part1.html)
+- [Semiconductor Market Analysis](https://joseluistello.github.io/r/2021/06/28/semiconductors-part1.html) - Breaking through the semiconductor industry complexity 
 
 📙 **Substack in spanish**
 
 Pricing
 
-- [Definiendo el valor y la estructura de precios](https://joseluistello.substack.com/p/valor-y-estructura-de-precios)
-- [Estructura de costos](https://joseluistello.substack.com/p/estructura-de-costos)
-- [Fijación de precios](https://joseluistello.substack.com/p/fijacin-de-precios)
+- [Definiendo el valor y la estructura de precios](https://joseluistello.substack.com/p/valor-y-estructura-de-precios) - What is value and how to structure a price
+- [Estructura de costos](https://joseluistello.substack.com/p/estructura-de-costos) - Cost behavior and performance 
+- [Fijación de precios](https://joseluistello.substack.com/p/fijacin-de-precios) - How to price any product
 
-
+---
 
 ➡️ **Connect with me:**
 
