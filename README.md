@@ -23,7 +23,9 @@ Finance
 
 - [Semiconductor Market Analysis](https://joseluistello.github.io/r/2021/06/28/semiconductors-part1.html)
 
-📙 **Blogs**
+📙 **Substack in spanish**
+
+Pricing
 
 - [Definiendo el valor y la estructura de precios](https://joseluistello.substack.com/p/valor-y-estructura-de-precios)
 - [Estructura de costos](https://joseluistello.substack.com/p/estructura-de-costos)
