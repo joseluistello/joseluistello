@@ -21,7 +21,7 @@
 
 - [Ecommerce Data Analysis with Python and Pandas](https://joseluistello.github.io/python/2021/08/17/python-data-analysis.html) - Looking for insights with me and pandas!
 
--[Olympic Medals 2021](https://joseluistello.github.io/r/2021/08/09/datavisualization-medals-tokyo2021.html) Visualizing Tokyo with R, Ggplot and Dplyr
+- [Olympic Medals 2021](https://joseluistello.github.io/r/2021/08/09/datavisualization-medals-tokyo2021.html) Visualizing Tokyo with R, Ggplot and Dplyr
 
 
 **Finance** 
