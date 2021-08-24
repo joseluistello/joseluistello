@@ -38,8 +38,8 @@
 
 📝 **Certifications**
 
-* Machine learning @ [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/fa94eaac8baff3b1f52c3da97afab7aec28a3086)
-* DataScience for Business @ [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/84fb887d77564f69ca9ab75a1d2a61f8ed7b8e02)
+* Machine learning for Business@ [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/fa94eaac8baff3b1f52c3da97afab7aec28a3086)
+* Datascience for Business @ [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/84fb887d77564f69ca9ab75a1d2a61f8ed7b8e02)
 * SQL Server @ [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/d4220a7a486a1662c9a2c942c64fbd6683b8cb22)
 * R @ [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/1e3fbdb8de798fb4897bf2e97e9f53d59828086b)
 * Microeconomics principles @ Coursera
