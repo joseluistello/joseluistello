@@ -44,7 +44,6 @@
 * R @ [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/1e3fbdb8de798fb4897bf2e97e9f53d59828086b)
 * Microeconomics principles @ Coursera
 * User Experience Design @ Coursera
-* Geopolitics and global governance: Risks and opportunities @ Coursera
 
 ---
 
