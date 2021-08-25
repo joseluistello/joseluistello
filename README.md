@@ -2,7 +2,7 @@
 
 ---
 
-**I am a data analyst from Mexico who loves software engineering, writing, learning and business-related analysis. I have a [portfolio](https://joseluistello.github.io/) where I write some code, statistical models, and do some financial stuff.**
+**I am a data analyst from Mexico who loves software engineering, writing, learning, and business-related analysis. I have a [portfolio](https://joseluistello.github.io/) where I write about what I love and know.**
 
 - 🌱 I’m currently learning data engineering
 - ♨️ I’m looking to enter in tech industry
