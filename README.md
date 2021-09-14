@@ -13,6 +13,9 @@
 
 💡 **Projects**
 
+**Programming**
+- [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - I customized a Gatsby theme and deployed it in the cloud with a personal domain address 
+
 **Data Analysis** 
 
 - [Data Analysis Process with R](https://joseluistello.github.io/r/2021/07/12/data-analysis-process.html) - An overview to my approach on how to analyze data 
