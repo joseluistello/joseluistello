@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning software engineering
 - ♨️ I’m looking to enter in tech industry
-- ⚡ I love to read mangas, books and blog posts
+- ⚡ I love to read mangas, books and tech blogs
 - 🌩️ I maintain a [database](https://www.notion.so/joseluistello/resources-3b96a11183d342b889c95e9bcb1e0c7f) with valuable resources on machine learning, product, writing, and more.
 
 ---
@@ -14,7 +14,7 @@
 💡 **Projects**
 
 **Programming**
-- [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - I customized a Gatsby theme and deployed it in the cloud with a personal domain address 
+- [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - I customized a Gatsby theme and deployed it in the cloud with a personal domain
 
 **Data Analysis** 
 
