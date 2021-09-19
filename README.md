@@ -29,7 +29,7 @@
 - [Semiconductor Market Analysis](https://joseluistello.github.io/r/2021/06/28/semiconductors-part1.html) - Breaking through the semiconductor industry complexity 
 - [Working with API REST and JSONs](https://joseluistello.github.io/python/2021/09/04/financial-api.html) - Financial Analysis x10 Faster
 
-📙 **Substack in spanish**
+📙 **My newsletter**
 
 **Pricing**
 
