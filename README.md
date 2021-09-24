@@ -15,11 +15,11 @@
 
 **Programming**
 - [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - I customized a Gatsby theme and deployed it in the cloud with a personal domain
-- [Working with API REST and JSONs](https://joseluistello.github.io/python/2021/09/04/financial-api.html) - Financial Analysis x10 Faster
 - [Third Party Integration with Google Map API's](https://github.com/joseluistello/Django_Google_API) - Django Framework 
 
 **Data Analysis** 
 
+- [Working with API REST and JSONs](https://joseluistello.github.io/python/2021/09/04/financial-api.html) - Financial Analysis x10 Faster
 - [Data Analysis Process with R](https://joseluistello.github.io/r/2021/07/12/data-analysis-process.html) - An overview to my approach on how to analyze data 
 - [An Introduction to Forecasting Modeling](https://joseluistello.github.io/r/2021/05/22/forecasting_mexico_GDPPC.html/) -  What is forecasting modeling and how it's divided
 - [Ecommerce Data Analysis with Python and Pandas](https://joseluistello.github.io/python/2021/08/17/python-data-analysis.html) - Looking for insights with me and pandas!
