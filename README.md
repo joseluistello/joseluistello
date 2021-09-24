@@ -15,6 +15,7 @@
 
 **Programming**
 - [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - I customized a Gatsby theme and deployed it in the cloud with a personal domain
+- [Working with API REST and JSONs](https://joseluistello.github.io/python/2021/09/04/financial-api.html) - Financial Analysis x10 Faster
 
 **Data Analysis** 
 
@@ -27,7 +28,7 @@
 **Finance** 
 
 - [Semiconductor Market Analysis](https://joseluistello.github.io/r/2021/06/28/semiconductors-part1.html) - Breaking through the semiconductor industry complexity 
-- [Working with API REST and JSONs](https://joseluistello.github.io/python/2021/09/04/financial-api.html) - Financial Analysis x10 Faster
+
 
 📙 **My newsletter**
 
