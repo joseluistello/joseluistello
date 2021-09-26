@@ -15,7 +15,7 @@
 
 **Programming**
 - [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - I customized a Gatsby theme and deployed it in the cloud with a personal domain
-- [Third Party Integration with Google Map API's](https://github.com/joseluistello/Django_Google_API) - Django Framework 
+- [Third Party Integration with Google Map API's](https://github.com/joseluistello/Django_Google_API) - Integration with Django
 
 **Data Analysis** 
 
