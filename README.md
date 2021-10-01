@@ -39,7 +39,7 @@
 
 🌙 **Newsletter**
 
-- [¿Qué harías diferente si volvieses a empezar?](https://simplificandola.substack.com/p/volver-a-empezar)
+- [¿Qué harías diferente si volvieses a empezar?](https://simplificandola.substack.com/p/volver-a-empezar) - Ravi Mehta (Reforge), deep work y estudiar largas horas
 
 📝 **Certifications**
 
