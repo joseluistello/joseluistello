@@ -17,29 +17,29 @@
 - [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - I customized a Gatsby theme and deployed it in the cloud with a personal domain
 - [Third Party Integration with Google Map API's](https://github.com/joseluistello/Django_Google_API) - Integration with Django
 
+
+🏝️ **Library**
+
 **Data Analysis** 
 
-
-- [Working with API REST and JSONs](https://joseluistello.github.io/python/2021/09/04/financial-api.html) - Financial Analysis x10 Faster
-- [Data Analysis Process with R](https://joseluistello.github.io/r/2021/07/12/data-analysis-process.html) - An overview to my approach on how to analyze data 
-- [An Introduction to Forecasting Modeling](https://joseluistello.github.io/r/2021/05/22/forecasting_mexico_GDPPC.html/) -  What is forecasting modeling and how it's divided
-- [Ecommerce Data Analysis with Python and Pandas](https://joseluistello.github.io/python/2021/08/17/python-data-analysis.html) - Looking for insights with me and pandas!
-- [Olympic Medals 2021](https://joseluistello.github.io/r/2021/08/09/datavisualization-medals-tokyo2021.html) Visualizing Tokyo with R, Ggplot and Dplyr
-
+- [Working with API REST and JSONs](https://joseluistello.live/trabajando-con-una-api-financiera) - Financial Analysis x10 Faster
+- [Data Analysis Process with R](https://joseluistello.live/my-data-analysis-approach) - An overview to my approach on how to analyze data 
+- [Ecommerce Data Analysis with Python and Pandas](https://joseluistello.live/analizando-un-ecommerce-con-python-y-pandas) - Looking for insights with me and pandas!
 
 **Finance** 
 
 - [Regression Model Analysis](https://github.com/joseluistello/Regression-Analysis-Apple-Data) - Multiple Regression with Apple Data
-- [Semiconductor Market Analysis](https://joseluistello.github.io/r/2021/06/28/semiconductors-part1.html) - Breaking through the semiconductor industry complexity 
-
-
-📙 **My newsletter**
+- [Semiconductor Market Analysis](https://joseluistello.live/semiconductor-industry-analysis) - Breaking through the semiconductor industry complexity 
 
 **Pricing**
 
-- [Definiendo el valor y la estructura de precios](https://joseluistello.substack.com/p/valor-y-estructura-de-precios) - What is value and how to structure a price
-- [Estructura de costos](https://joseluistello.substack.com/p/estructura-de-costos) - Cost behavior and performance 
-- [Fijación de precios](https://joseluistello.substack.com/p/fijacin-de-precios) - How to price any product
+- [Definiendo el valor y la estructura de precios](https://joseluistello.live/una-introduccion-al-valor-y-las-estructuras-de-precios) - What is value and how to structure a price
+- [Estructura de costos](https://joseluistello.live/estructura-de-costos) - Cost behavior and performance 
+- [Fijación de precios](https://joseluistello.live/fijacion-de-precios) - How to price any product
+
+🌙 **Newsletter**
+
+- [¿Qué harías diferente si volvieses a empezar?](https://simplificandola.substack.com/p/volver-a-empezar)
 
 📝 **Certifications**
 
