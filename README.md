@@ -2,7 +2,7 @@
 
 ---
 
-**I am a data analyst from Mexico who loves software engineering, writing, learning, and business-related analysis. I have a [blog](https://joseluistello.live/) where I write about what I love and know.**
+**I am a data analyst and software developer from México. I love writing, learning, and business-related analysis. I have a [blog](https://joseluistello.live/) where I write about what I love and know.**
 
 - 🌱 I’m currently learning software engineering
 - ♨️ I’m looking to enter in tech industry
