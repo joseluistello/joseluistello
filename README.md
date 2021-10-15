@@ -41,7 +41,7 @@
 ### 🌙 **Newsletter**
 
 - [¿Qué harías diferente si volvieses a empezar?](https://simplificandola.substack.com/p/volver-a-empezar) - Ravi Mehta (Reforge), deep work y estudiar largas horas
-- [Diseñando países con el paradigma orientado a objetos](https://simplificandola.substack.com/p/disenando-paises-con-el-paradigma) - Richard Watson, pensamiento sistematico y filosofia
+- [Diseñando países con el paradigma orientado a objetos](https://simplificandola.substack.com/p/disenando-paises-con-el-paradigma) - Richard Watson, pensamiento sistematico, filosofia y como funciona la economia China
 
 ### 📝 **Certifications**
 
