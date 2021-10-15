@@ -42,6 +42,7 @@
 
 - [¿Qué harías diferente si volvieses a empezar?](https://simplificandola.substack.com/p/volver-a-empezar) - Ravi Mehta (Reforge), deep work y estudiar largas horas
 - [Diseñando países con el paradigma orientado a objetos](https://simplificandola.substack.com/p/disenando-paises-con-el-paradigma) - Richard Watson, pensamiento sistematico, filosofia y como funciona la economia China
+- [El destructor de mundos](https://simplificandola.substack.com/p/el-destructor-de-mundos) - Robert Oppenheimer, StrataScratch, analisis de la industria de los semiconductores y una de mis playlist de lofi favoritas
 
 ### 📝 **Certifications**
 
