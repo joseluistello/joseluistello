@@ -14,7 +14,7 @@
 ### 💡 **Projects**
 
 **Programming**
-- [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - I customized a Gatsby theme and deployed it in the cloud with a personal domain
+- [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - Gatsby theme and deployed in the cloud with a personal domain
 - [Third Party Integration with Google Map API's](https://github.com/joseluistello/Django_Google_API) - Integration with Django
 - [Space Management WEB APP with Django](https://github.com/joseluistello/ToDo-List) - Django WebApp
 
