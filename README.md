@@ -62,7 +62,6 @@
 * [Portfolio](https://joseluistello.github.io/)
 * [Twitter](https://twitter.com/jotaele_tello)
 * [Linkedin](https://www.linkedin.com/in/joseluistello/)
-* [Resume](https://www.notion.so/joseluistello/resume-908176d50910492f82bb0c2c50150406)
 
 
 
