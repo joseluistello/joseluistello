@@ -55,7 +55,7 @@
 
 ---
 
-#### ➡️ **Connect with me:**
+### ➡️ **Connect with me:**
 
 * [Linkedin](https://www.linkedin.com/in/joseluistello/)
 * [Blog](https://joseluistello.live/)
