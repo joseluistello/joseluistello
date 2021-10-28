@@ -57,11 +57,11 @@
 
 #### ➡️ **Connect with me:**
 
-* [Blog](https://joseluistello.live/)
-* [Newsletter](https://simplificandola.substack.com//)
-* [Portfolio](https://joseluistello.github.io/)
-* [Twitter](https://twitter.com/jotaele_tello)
 * [Linkedin](https://www.linkedin.com/in/joseluistello/)
+* [Blog](https://joseluistello.live/)
+* [Portfolio](https://joseluistello.github.io/)
+* [Newsletter](https://simplificandola.substack.com//)
+* [Twitter](https://twitter.com/jotaele_tello)
 
 
 
