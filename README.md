@@ -3,7 +3,7 @@
 #### A data analyst and software developer from México.
 ---
 
-**I love to write technical stuff in my [blog](https://joseluistello.live/). I enjoy the process of building financial models.**
+**Besides analysis and software, I enjoy building financial models, technical writing and teaching in my [blog](https://joseluistello.live/).**
 
 - 🌱 I’m currently learning data engineering.
 - ❤️ I'm passionate about business and product, especially the process of discovering and understanding growth systems.
