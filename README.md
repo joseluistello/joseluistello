@@ -2,9 +2,10 @@
 
 ---
 
-**I am a data analyst and software developer from México. I love to write technical stuff in my [blog](https://joseluistello.live/). I also enjoy finance, especially building models. I am passionate about business and product.**
+**I am a data analyst and software developer from México. I love to write technical stuff in my [blog](https://joseluistello.live/). I enjoy the process of building financial models.**
 
 - 🌱 I’m currently learning data engineering.
+- ❤️ I'm passionate about business and product, especially the process of discovering and understanding growth systems.
 - ⚡ I love read mangas, books, tech & business blogs.
 - 🌩️ I have a [database](https://www.notion.so/joseluistello/resources-3b96a11183d342b889c95e9bcb1e0c7f) with resources on machine learning, product, writing, finance and more.
 
