@@ -1,8 +1,9 @@
 ### Hi there, I'm José Luis Tello 👋 
 
+#### A data analyst and software developer from México.
 ---
 
-**I am a data analyst and software developer from México. I love to write technical stuff in my [blog](https://joseluistello.live/). I enjoy the process of building financial models.**
+**I love to write technical stuff in my [blog](https://joseluistello.live/). I enjoy the process of building financial models.**
 
 - 🌱 I’m currently learning data engineering.
 - ❤️ I'm passionate about business and product, especially the process of discovering and understanding growth systems.
