@@ -6,7 +6,7 @@
 **Besides analysis and software, I enjoy building financial models, write technical stuff and teaching in my [blog](https://joseluistello.live/).**
 
 - 🌱 I’m currently learning data engineering.
-- ❤️ I'm passionate about business and product, especially the process of discovering and understanding growth systems.
+- ❤️ I'm passionate about business and building products, especially the process of discovering and understanding growth systems and product-led growth.
 - ⚡ I love read mangas, books, tech & business blogs.
 - 🌩️ I have a [database](https://www.notion.so/joseluistello/resources-3b96a11183d342b889c95e9bcb1e0c7f) with resources on statistical learning, product, writing, finance and more.
 
