@@ -18,7 +18,7 @@
 - [Full Stack Web Application for instant grocery and retail deliver](https://github.com/joseluistello/Kkoma-Food/blob/main/README.md) - Django Rest Framework, Vue.js, Bulma and Stripe
 - [Third Party Integration with Google Map API's](https://github.com/joseluistello/Django_Google_API) - Integration with Django
 - [Space Management WEB APP with Django](https://github.com/joseluistello/ToDo-List) - Django WebApp
-- [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - Gatsby theme and deployed in the cloud with a personal domain
+- [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - Blog deployed in Gatsby Cloud with a Personal Domain
 
 
 ### 🏝️ **Library**
