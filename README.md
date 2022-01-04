@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning data engineering.
 - 🌻 Core Maintainer at [Helena](https://github.com/joseluistello/Helena).
-- ❤️ I'm passionate about business, especially the process of discovering growth systems, levers and motions.
+- ❤️ I'm passionate about business, growth systems, levers and motions.
 - ⚡ I love to read mangas, books, tech & business blogs.
 - 🌩️ I have a [database](https://www.notion.so/joseluistello/resources-3b96a11183d342b889c95e9bcb1e0c7f) with resources on statistical learning, product, writing, finance and more.
 
@@ -19,8 +19,7 @@
 - [Full Stack Web Application for Retail Delivery](https://github.com/joseluistello/Kkoma-Food) - Django Rest Framework, Vue.js, Bulma and Stripe
 - [Third Party Integration with Google Map API's](https://github.com/joseluistello/Django_Google_API) - Integration with Django
 - [Space Management WEB APP with Django](https://github.com/joseluistello/ToDo-List) - Django WebApp
-- [My blog with Gatsby and Gatsby Cloud](https://joseluistello.live/) - Blog deployed in Gatsby Cloud with a Personal Domain
-
+- [Personal Blog deployed in Gatsby Cloud](https://joseluistello.live/) - React and Gatsby
 
 ### 🏝️ **Library**
 
