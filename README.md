@@ -5,7 +5,7 @@
 
 **Besides analysis and software, I enjoy building financial models, technical writing stuff, and teaching in my [blog](https://joseluistello.live/) and [newsletter](https://simplificandola.substack.com/about?utm_source=menu-dropdown)**
 
-- 🌱 I’m currently learning data engineering.
+- 🌱 I’m currently learning software engineering.
 - 🌻 Core Maintainer at [Helena](https://github.com/joseluistello/Helena).
 - ❤️ I'm passionate about business, growth systems, levers and motions.
 - ⚡ I love to read mangas, books, tech & business blogs.
