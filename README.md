@@ -61,6 +61,7 @@
 ### ➡️ **Connect with me:**
 
 * [Linkedin](https://www.linkedin.com/in/joseluistello/)
+* [Youtube](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVw)
 * [Blog](https://joseluistello.live/)
 * [Portfolio](https://joseluistello.github.io/)
 * [Newsletter](https://simplificandola.substack.com//)
