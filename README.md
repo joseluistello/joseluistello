@@ -42,8 +42,8 @@
 
 ### 🔥 **Youtube**
 
--[Top Three Salaries - Hard](https://www.youtube.com/watch?v=1LeqJTBrYfc) - Resolving problems on Leeetcode
--[Employees Earning - East](https://www.youtube.com/watch?v=qGNAdaMxZ78) - Resolving problems on Leetcode
+- [Top Three Salaries - Hard](https://www.youtube.com/watch?v=1LeqJTBrYfc) - Resolving problems on Leeetcode
+- [Employees Earning - East](https://www.youtube.com/watch?v=qGNAdaMxZ78) - Resolving problems on Leetcode
 
 ### 🌙 **Newsletter**
 
