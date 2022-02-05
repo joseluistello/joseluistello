@@ -40,6 +40,11 @@
 - [Estructura de costos](https://joseluistello.live/estructura-de-costos) - Cost behavior and performance 
 - [Fijación de precios](https://joseluistello.live/fijacion-de-precios) - How to price any product
 
+### 🔥 **Youtube**
+
+-[Top Three Salaries - Hard](https://www.youtube.com/watch?v=1LeqJTBrYfc) - Resolving problems on Leeetcode
+-[Employees Earning - East](https://www.youtube.com/watch?v=qGNAdaMxZ78) - Resolving problems on Leetcode
+
 ### 🌙 **Newsletter**
 
 - [¿Qué harías diferente si volvieses a empezar?](https://simplificandola.substack.com/p/volver-a-empezar) - Ravi Mehta (Reforge), deep work y estudiar largas horas
