@@ -3,7 +3,7 @@
 #### A data analyst and software developer from México.
 ---
 
-**Besides analysis and software, I enjoy building financial models, technical writing stuff, and teaching in my [blog](https://joseluistello.live/) and [newsletter](https://simplificandola.substack.com/about?utm_source=menu-dropdown)**
+**Besides analysis and software, I enjoy building financial models, technical writing stuff, teaching in my [blog](https://joseluistello.live/), [newsletter](https://simplificandola.substack.com/about?utm_source=menu-dropdown) and [youtube channel](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVw)**
 
 - 🌱 I’m currently learning software engineering.
 - ❤️ I'm passionate about business, growth systems, levers and motions.
