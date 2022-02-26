@@ -74,15 +74,6 @@ Besides analysis and software, I enjoy building financial models, write technica
   
 </p>
 
-<a href="https://github.com/joseluistello/joseluistello">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluistello&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
- 
-<a href="https://github.com/joseluistello/joseluistello">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluistello&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
-
 ### 💡 **Projects**
 
 #### **Programming**
@@ -119,6 +110,19 @@ Besides analysis and software, I enjoy building financial models, write technica
 * R @ [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/1e3fbdb8de798fb4897bf2e97e9f53d59828086b)
 * Microeconomics principles @ Coursera
 * User Experience Design @ Coursera
+  
+<p align="center">
+  
+ <a href="https://github.com/joseluistello/joseluistello">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseluistello&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+ 
+<a href="https://github.com/joseluistello/joseluistello">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=joseluistello&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="JoseLuis's GitHub Stats" />
+</a>
+  
+</p>
+
 
 
 
