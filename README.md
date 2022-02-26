@@ -2,9 +2,9 @@
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px"> 
 </h1>
 
-<p align="center">
+<h3 align="center">
   My name is José Luis Tello and I'm a data analyst and software developer from México.
-</p>
+</h3>
 
 <p align="center">
 
@@ -44,11 +44,6 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 <img alt="Discord" src="https://camo.githubusercontent.com/596357d8b52257c282f713b78daa05587ee258c2822b1738be87afe6bcce92da/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446973636f726426636f6c6f723d353836354632266c6f676f3d446973636f7264266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </a>
 
-<!-- Portfolio -->
-<a href="https://joseluistello.github.io/">
-<img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black" width=79px />
-</a>
-</p>
 
 Besides analysis and software, I enjoy building financial models, write technical stuff and help people ❤️
 
