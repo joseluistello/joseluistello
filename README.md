@@ -4,7 +4,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 ---
 
-**My name is José Luis Tello and I'm a data analyst and software developer. Currently living in México. ** 
+**My name is José Luis Tello and I'm a data analyst and software developer. Currently living in México.** 
 
 **Besides analysis and software, I enjoy building financial models, technical writing stuff, teaching in my [blog](https://joseluistello.live/), [newsletter](https://simplificandola.substack.com/about?utm_source=menu-dropdown) and [youtube channel](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVw)**
 
