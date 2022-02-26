@@ -48,7 +48,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 Besides analysis and software, I enjoy building financial models, write technical stuff and help people ❤️
 
 - 🌱 I’m currently learning software engineering.
-- ❤️ I'm passionate about business, growth systems, levers and motions.
+- ❤️ I'm passionate about business & growth systems.
 - ⚡ I love to read mangas, books, tech & business blogs.
 - 🌩️ I have a [database](https://www.notion.so/joseluistello/resources-3b96a11183d342b889c95e9bcb1e0c7f) with resources on statistical learning, product, writing, finance and more.
 
