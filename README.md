@@ -55,9 +55,9 @@ Besides analysis and software, I enjoy building financial models, write technica
 
 ---
   
-<h3 align="center">
+<h2 align="center">
   Stack
-</h5>
+</h2>
   
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
