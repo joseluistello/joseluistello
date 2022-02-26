@@ -8,6 +8,12 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 <p align="center">
 
+<!-- Website -->
+
+<a href="https://joseluistello.live/">
+<img alt="Website" src="https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
+</a>
+
 <!-- Youtube -->
 <a href="https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVw">
 <img alt="Youtube" src="https://camo.githubusercontent.com/9bbd418eba4e5ca72da9663efab9d832ebec5e1b1141c6edad4fdb618e262958/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d596f755475626526636f6c6f723d464630303030266c6f676f3d596f7554756265266c6f676f436f6c6f723d464646464646266c6162656c3d" />
@@ -15,7 +21,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 <!-- Gmail -->
 <a href="mailto:joluistello@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img alt="Gmail" src="https://camo.githubusercontent.com/b070a7f6855dbf52729ec83a928c93e728f5245e24123a6547912acea3753899/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476d61696c26636f6c6f723d454134333335266c6f676f3d476d61696c266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </a>
 
 <!-- Linkedin -->
@@ -23,19 +29,28 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
 </a>
 
-<!-- Linkedin -->
-<a href="https://www.linkedin.com/in/joseluistello/">
-<img alt="Linkedin" src="https://camo.githubusercontent.com/a922290ca0cc49837627be7d83dee7cbafb2328b5f38efdc62f9ba3858a1eede/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4861636b657252616e6b26636f6c6f723d323232323232266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d303045413634266c6162656c3d" />
-</a>
-
 <!-- Substack -->
 <a href="https://simplificandola.substack.com/">
-<img alt="Linkedin" src="https://camo.githubusercontent.com/47f17f42597f823bd1f5ec88566ccc967dc443759b8bc464e9f5bf1662e22283/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537562737461636b26636f6c6f723d464636373139266c6f676f3d537562737461636b266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+<img alt="Substack" src="https://camo.githubusercontent.com/47f17f42597f823bd1f5ec88566ccc967dc443759b8bc464e9f5bf1662e22283/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537562737461636b26636f6c6f723d464636373139266c6f676f3d537562737461636b266c6f676f436f6c6f723d464646464646266c6162656c3d" />
 </a>
-  
+
+<!-- Twitter -->
+<a href="https://twitter.com/jotaele_tello">
+<img alt="Twitter" src="https://camo.githubusercontent.com/0bd066115a3d5d3b06c206ac73e483bc237e6ff7c61f9ba3262e683581de9718/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5477697474657226636f6c6f723d314441314632266c6f676f3d54776974746572266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+</a>
+
+<!-- Discord -->
+<a href="https://discord.gg/EDqqAfQ7Mp">
+<img alt="Discord" src="https://camo.githubusercontent.com/596357d8b52257c282f713b78daa05587ee258c2822b1738be87afe6bcce92da/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446973636f726426636f6c6f723d353836354632266c6f676f3d446973636f7264266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+</a>
+
+<!-- Portfolio -->
+<a href="https://twitter.com/jotaele_tello">
+<img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black" width=79px />
+</a>
 </p>
 
-Besides analysis and software, I enjoy building financial models, technical writing stuff, teaching in my blog [joseluistello.live](https://joseluistello.live/), [newsletter](https://simplificandola.substack.com/about?utm_source=menu-dropdown) and [youtube channel](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVw)
+Besides analysis and software, I enjoy building financial models, write technical stuff and help people ❤️
 
 - 🌱 I’m currently learning software engineering.
 - ❤️ I'm passionate about business, growth systems, levers and motions.
@@ -46,13 +61,12 @@ Besides analysis and software, I enjoy building financial models, technical writ
 
 ### 💡 **Projects**
 
-**Programming**
+#### **Programming**
+
 - [Full Stack Web Application for Retail Delivery](https://github.com/joseluistello/Kkoma-Food) - Django Rest Framework, Vue.js, Bulma and Stripe
 - [Third Party Integration with Google Map API's](https://github.com/joseluistello/Django_Google_API) - Integration with Django
 - [Space Management WEB APP with Django](https://github.com/joseluistello/ToDo-List) - Django WebApp
 - [Personal Blog deployed in Gatsby Cloud](https://joseluistello.live/) - React and Gatsby
-
-### 🏝️ **Library**
 
 #### **Data Analysis** 
 
@@ -71,16 +85,6 @@ Besides analysis and software, I enjoy building financial models, technical writ
 - [Estructura de costos](https://joseluistello.live/estructura-de-costos) - Cost behavior and performance 
 - [Fijación de precios](https://joseluistello.live/fijacion-de-precios) - How to price any product
 
-### 🔥 **Youtube**
-
-- [Top Three Salaries - Hard](https://www.youtube.com/watch?v=1LeqJTBrYfc) - Resolving problems on Leeetcode
-- [Employees Earning - East](https://www.youtube.com/watch?v=qGNAdaMxZ78) - Resolving problems on Leetcode
-
-### 🌙 **Newsletter**
-
-- [¿Qué harías diferente si volvieses a empezar?](https://simplificandola.substack.com/p/volver-a-empezar) - Ravi Mehta (Reforge), deep work y estudiar largas horas
-- [Diseñando países con el paradigma orientado a objetos](https://simplificandola.substack.com/p/disenando-paises-con-el-paradigma) - Richard Watson, pensamiento sistematico, filosofia y como funciona la economia China
-- [El destructor de mundos](https://simplificandola.substack.com/p/el-destructor-de-mundos) - Robert Oppenheimer, StrataScratch, analisis de la industria de los semiconductores y una de mis playlist de lofi favoritas
 
 ### 📝 **Certifications**
 
@@ -92,16 +96,6 @@ Besides analysis and software, I enjoy building financial models, technical writ
 * Microeconomics principles @ Coursera
 * User Experience Design @ Coursera
 
----
-
-### ➡️ **Connect with me:**
-
-* [Linkedin](https://www.linkedin.com/in/joseluistello/)
-* [Youtube](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVw)
-* [Blog](https://joseluistello.live/)
-* [Portfolio](https://joseluistello.github.io/)
-* [Newsletter](https://simplificandola.substack.com//)
-* [Twitter](https://twitter.com/jotaele_tello)
 
 
 
