@@ -1,5 +1,5 @@
 <h1 align="center">
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm José Luis Tello 
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm José Luis Tello 
 </h1>
 
 #### A data analyst and software developer from México.
