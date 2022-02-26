@@ -45,7 +45,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 </a>
 
 <!-- Portfolio -->
-<a href="https://twitter.com/jotaele_tello">
+<a href="https://joseluistello.github.io/">
 <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-black" width=79px />
 </a>
 </p>
