@@ -2,11 +2,40 @@
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px"> 
 </h1>
 
----
+<p align="center">
+  My name is José Luis Tello and I'm a data analyst and software developer from México.
+</p>
 
-**My name is José Luis Tello and I'm a data analyst and software developer. Currently living in México.** 
+<p align="center">
 
-**Besides analysis and software, I enjoy building financial models, technical writing stuff, teaching in my [blog](https://joseluistello.live/), [newsletter](https://simplificandola.substack.com/about?utm_source=menu-dropdown) and [youtube channel](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVw)**
+<!-- Youtube -->
+<a href="https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVw">
+<img alt="Youtube" src="https://camo.githubusercontent.com/9bbd418eba4e5ca72da9663efab9d832ebec5e1b1141c6edad4fdb618e262958/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d596f755475626526636f6c6f723d464630303030266c6f676f3d596f7554756265266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+</a>
+
+<!-- Gmail -->
+<a href="mailto:joluistello@gmail.com">
+<img alt="Gmail" src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<!-- Linkedin -->
+<a href="https://www.linkedin.com/in/joseluistello/">
+<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  />
+</a>
+
+<!-- Linkedin -->
+<a href="https://www.linkedin.com/in/joseluistello/">
+<img alt="Linkedin" src="https://camo.githubusercontent.com/a922290ca0cc49837627be7d83dee7cbafb2328b5f38efdc62f9ba3858a1eede/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4861636b657252616e6b26636f6c6f723d323232323232266c6f676f3d4861636b657252616e6b266c6f676f436f6c6f723d303045413634266c6162656c3d" />
+</a>
+
+<!-- Substack -->
+<a href="https://simplificandola.substack.com/">
+<img alt="Linkedin" src="https://camo.githubusercontent.com/47f17f42597f823bd1f5ec88566ccc967dc443759b8bc464e9f5bf1662e22283/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537562737461636b26636f6c6f723d464636373139266c6f676f3d537562737461636b266c6f676f436f6c6f723d464646464646266c6162656c3d" />
+</a>
+  
+</p>
+
+Besides analysis and software, I enjoy building financial models, technical writing stuff, teaching in my blog [joseluistello.live](https://joseluistello.live/), [newsletter](https://simplificandola.substack.com/about?utm_source=menu-dropdown) and [youtube channel](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVw)
 
 - 🌱 I’m currently learning software engineering.
 - ❤️ I'm passionate about business, growth systems, levers and motions.
