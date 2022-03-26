@@ -4,7 +4,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 </h1>
 
 <h3 align="center">
-  My name is José Luis Tello and I'm a data analyst and software developer from México.
+  My name is José Luis Tello. I'm a data analyst and software developer from México.
 </h3>
 
 <p align="center">
