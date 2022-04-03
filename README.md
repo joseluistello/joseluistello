@@ -56,7 +56,7 @@ Besides analysis and software, I enjoy building financial models, write technica
 ---
   
 <h2 align="center">
-  Stack
+  🔨 Tech stack
 </h2>
   
 <p align="center">
