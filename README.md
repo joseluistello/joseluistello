@@ -55,10 +55,10 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 ### Besides analysis and software, what do I do and what do I love? 👇
 
 - ❤️ I enjoy building financial models, write technical stuff and help people  
-- 🤪 I’m currently learning data structures and algorithms
+- 🔮 I’m currently learning data structures and algorithms
 - ⚡ I'm passionate about business & growth systems
 - 😊 I love to read mangas, books and substacks
-- 😁 I have a [youtube channel](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVwc) 
+- 🎥 I have a [youtube channel](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVwc) 
 
 ---
   
