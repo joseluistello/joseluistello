@@ -2,6 +2,12 @@
 <h1 align="center">
 Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px"> 
 </h1>
+  
+<div align="center">
+<img src="https://im2.ezgif.com/tmp/ezgif-2-fcf7ba5641.gif" align="center" style="width: 100%" />
+</div>  
+  
+
 
 <h3 align="center">
   My name is José Luis Tello. I'm an IT Recruiter with a technical background in data analysis and software development.
@@ -46,7 +52,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 </a>
 
 
-Besides analysis and software, I enjoy building financial models, write technical stuff and help people ❤️
+### Besides analysis and software, I enjoy building financial models, write technical stuff and help people ❤️
 
 - 🌱 I’m currently learning software engineering,
 - ❤️ I'm passionate about business & growth systems.
