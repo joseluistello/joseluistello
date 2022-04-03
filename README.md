@@ -4,7 +4,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 </h1>
   
 <div align="center">
-<img src="https://c.tenor.com/jz5C4Uk8tVwAAAAC/vagabond.gif" align="center" style="width: 500px" />
+<img src="https://cdn.shopify.com/s/files/1/2717/4124/files/esquire-cover.gif?v=1615983403" align="center" style="width: 500px" />
 </div>  
   
 
