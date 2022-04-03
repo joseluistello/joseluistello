@@ -58,7 +58,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 - 🔮 I’m currently learning data structures and algorithms
 - ⚡ I'm passionate about business & growth systems
 - 😊 I love to read mangas, books and substacks
-- 🎥 Sometimes I do tech talks and SQL problems in [youtube channel](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVwc) 
+- 🎥 Sometimes I do tech talks and SQL problems in my [youtube channel](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVwc) 
 
 ---
   
