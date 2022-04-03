@@ -52,13 +52,13 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 </a>
 
 
-### Besides analysis and software, what do I do? 👇
+### Besides analysis and software, what do I do and what do I love? 👇
 
-- 💫 I enjoy building financial models, write technical stuff and help people ❤️
-- 🌱 I’m currently learning software engineering,
-- ❤️ I'm passionate about business & growth systems.
-- ⚡ I love to read mangas, books, tech & business blogs.
-- 🌩️ I have a [cluster](https://www.notion.so/joseluistello/Helena-1e936324fe3b4243af7c1a57cb3889fc) with resources from different disciplines.
+- ❤️ I enjoy building financial models, write technical stuff and help people  
+- 🤪 I’m currently learning data structures and algorithms
+- ⚡ I'm passionate about business & growth systems
+- 😊 I love to read mangas, books and substacks
+- 😁 I have a [youtube channel](https://www.youtube.com/channel/UCshLQ0sIzkzHlhnlZN8kiVwc) 
 
 ---
   
