@@ -52,8 +52,9 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 </a>
 
 
-### Besides analysis and software, what do I do? 👇
-- I enjoy building financial models, write technical stuff and help people ❤️
+## Besides analysis and software, what do I do? 👇
+
+- 💫 I enjoy building financial models, write technical stuff and help people ❤️
 - 🌱 I’m currently learning software engineering,
 - ❤️ I'm passionate about business & growth systems.
 - ⚡ I love to read mangas, books, tech & business blogs.
