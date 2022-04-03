@@ -4,7 +4,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 </h1>
   
 <div align="center">
-<img src="https://i.pinimg.com/originals/db/d3/e0/dbd3e03b5e500f481ad52534d198e4d6.gif" align="center" style="width: 500px" />
+<img src="https://i.pinimg.com/originals/db/d3/e0/dbd3e03b5e500f481ad52534d198e4d6.gif" align="center" style="width: 50px" />
 </div>  
   
 
