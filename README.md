@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px">, My name is José Luis Tello 
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px">, my name is José Luis Tello 
 </h1>
   
 <div align="center">
@@ -10,7 +10,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 
 <h3 align="center">
-  My name is José Luis Tello. I'm an IT Recruiter with a technical background in data analysis and software development.
+  I'm an IT Recruiter with a technical background in data analysis and software development.
 </h3>
 
 <p align="center">
