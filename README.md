@@ -9,9 +9,9 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
   
 
 
-<h3 align="center">
+<h2 align="center">
   I'm an IT Recruiter with a technical background in data analysis and software development.
-</h3>
+</h2>
 
 <p align="center">
 
