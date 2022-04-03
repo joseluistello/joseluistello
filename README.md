@@ -4,7 +4,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 </h1>
 
 <h3 align="center">
-  My name is José Luis Tello. I'm an IT Recruiter based in México with a technical background in data analysis and software development.
+  My name is José Luis Tello. I'm an IT Recruiter with a technical background in data analysis and software development.
 </h3>
 
 <p align="center">
