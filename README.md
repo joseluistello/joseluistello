@@ -93,7 +93,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 #### **Data Analysis** 
 
-- [Working with API REST and JSONs](https://joseluistello.live/como-consumir-y-transformar-los-datos-de-una-api-rest-para-un-analisis-mas-rapido) - Financial Analysis x10 Faster
+- [Working with API REST and JSON](https://joseluistello.live/como-consumir-y-transformar-los-datos-de-una-api-rest-para-un-analisis-mas-rapido) - Financial Analysis x10 Faster
 - [Data Analysis Process with R](https://joseluistello.live/my-data-analysis-approach) - An overview to my approach on how to analyze data 
 - [Ecommerce Data Analysis with Python and Pandas](https://joseluistello.live/analizando-un-ecommerce-con-python-y-pandas) - Looking for insights with me and pandas!
 
