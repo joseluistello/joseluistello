@@ -10,7 +10,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 
 <h2 align="center">
-  I'm a Talent Acquisition Specialist and Technical Mentor with a background in Data Analysis and Software Development.
+  I'm a Tech Recruiter, Mentor & Advisor with a background in Data Analysis and Software Development. Currently working in http://codersnow.ca and http://torre.co.
 </h2>
 
 <p align="center">
