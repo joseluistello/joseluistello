@@ -10,7 +10,7 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 
 <h2 align="center">
-  I'm an IT Recruiter with a technical background in Data Analysis and Software Development.
+  I'm a Talent Acquisition Specialist and Technical Mentor with a background in Data Analysis and Software Development.
 </h2>
 
 <p align="center">
