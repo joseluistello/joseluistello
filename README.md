@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=30px"> my name is José Luis Tello 
+Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width=10px"> my name is José Luis Tello 
 </h1>
   
 <div align="center">
