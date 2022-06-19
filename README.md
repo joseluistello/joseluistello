@@ -10,7 +10,7 @@ Hi there 🤟 my name is José Luis Tello
 
 
 <h2 align="center">
-  I'm a Tech Recruiter, Mentor & Advisor with a background in Data Analysis and Software Development. Currently working in http://codersnow.ca & http://torre.co
+  Tech Recruiter, Mentor & Advisor with a background in Data Analysis and Software Development. Currently working in http://codersnow.ca & http://torre.co
 </h2>
 
 <p align="center">
