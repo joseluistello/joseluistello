@@ -17,7 +17,7 @@ Hi there 🤟 my name is José Luis Tello
 
 <!-- Website -->
 
-<a href="https://joseluistello.live/">
+<a href="https://joseluistello.gatsbyjs.io/">
 <img alt="Website" src="https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
 </a>
 
