@@ -17,7 +17,7 @@ Associate Growth Engineer | Technical Advisor in Data Analysis and Software Deve
 
 <!-- Website -->
 
-<a href="https://joseluistello.gatsbyjs.io/">
+<a href="https://joseluistello.com/">
 <img alt="Website" src="https://img.shields.io/badge/Website-4F0599?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
 </a>
 
