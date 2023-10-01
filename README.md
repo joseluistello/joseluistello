@@ -10,7 +10,7 @@ Hi there 🤟 my name is José Luis Tello
 
 
 <h2 align="center">
-Associate Growth Engineer | Technical Advisor in Data Analysis and Software Development. Currently working at https://access.torre.co/
+Growth Engineer. Currently working at [Kasera](https://kaserafood.com/)
 </h2>
 
 <p align="center">
