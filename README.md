@@ -10,7 +10,7 @@ Hi there 🤟 my name is José Luis Tello
 
 
 <h2 align="center">
-Growth Engineer. Currently working at [Kasera](https://kaserafood.com/)
+Growth Engineer. Currently working at https://kaserafood.com
 </h2>
 
 <p align="center">
